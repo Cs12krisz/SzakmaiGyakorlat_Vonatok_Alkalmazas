@@ -5,8 +5,18 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:VonatokWPF"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="Vonatok várakozása" Height="450" Width="800">
     <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*"></ColumnDefinition>
+            <ColumnDefinition Width="2*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <StackPanel>
+            <Label Content="Vonalszám:"></Label>
+            <ComboBox />
+            <Button Content="Mentés"/>
+        </StackPanel>
+        <TextBlock Grid.Column="1" Text="Kérem válasszon vonalszámot!"></TextBlock>
 
     </Grid>
 </Window>

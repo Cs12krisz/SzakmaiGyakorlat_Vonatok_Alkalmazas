@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VonatokWPF")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2affa26e7f531a715e1f15cc23f47016c60231da")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f877d36fde2b2ba1bb01b268a5ad39807c3eeb4d")]
 [assembly: System.Reflection.AssemblyProductAttribute("VonatokWPF")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VonatokWPF")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
