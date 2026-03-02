@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Vonatok")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2affa26e7f531a715e1f15cc23f47016c60231da")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+56a6b77ae1739d98ce13f3c0a023fb40b21a403e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Vonatok")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Vonatok")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

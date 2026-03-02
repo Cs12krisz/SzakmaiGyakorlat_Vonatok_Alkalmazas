@@ -6,7 +6,7 @@ using System.Text.Json;
 
 namespace Vonatok
 {
-    internal class Program
+    public class Program
     {
         public static List<Varakozas> varakozasok = new List<Varakozas>();
         public static List<Varakozas> varakozasListaJson = new List<Varakozas>();

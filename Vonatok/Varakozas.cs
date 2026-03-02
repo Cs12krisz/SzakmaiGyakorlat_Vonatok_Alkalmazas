@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Vonatok
 {
-    internal class Varakozas
+    public class Varakozas
     {
         public Varakozas() { }
 
@@ -47,7 +47,7 @@ namespace Vonatok
 
         public override string ToString()
         {
-            return $"Vonal: {Vonal} Állomás: {Allomas} \n Érkező: {ErkezoIrany} \n Induló: {InduloIrany} \n Maximális várakozási idő: {VarakozasIdo} perc";
+            return $"Vonal: {Vonal} Állomás: {Allomas}\nÉrkező: {ErkezoIrany}\nInduló: {InduloIrany}\nMaximális várakozási idő: {VarakozasIdo} perc";
         }
 
         public bool VakozikE(string erkezesiIrany, string indulasiIrany)

@@ -1,0 +1,44 @@
+Vonal	Állomás	Érkező irány	Induló irány	max késés
+1	Tatabánya	Budapest, Komárom	Oroszlány	5
+1	Tatabánya	Oroszlány	Budapest, Komárom	5
+1	Almásfüzítő	Esztergom	Tatabánya, Győr	5
+1	Almásfüzítő	Esztergom	Összes	5
+1	Almásfüzítő	Székesfehérvár - Kisbér	Budapest	5
+1	Almásfüzítő	Székesfehérvár - Kisbér	Győr	5
+1	Győr	Összes	Budapest	5
+1	Győr	Összes	Hegyeshalom	5
+1	Győr	Budapest	Celldömölk	5
+2	Esztergom-Kertváros	Almásfüzitő	Budapest-Nyugati pu.	5
+25	Ukk	Tapolca	Budapest	5
+25	Zalaszentiván	Nagykanizsa, Szombathely	Zalaegerszeg	5
+25	Zalaszentiván	Nagykanizsa, Szombathely	Budapest	5
+30a	Tárnok	Budapest	Székesfehérvár	2
+30a	Martonvásár	Székesfehérvár	Budapest	2
+30	Székesfehérvár	Összes	Siófok - Nagykanizsa	2
+30	Székesfehérvár	Összes	Pusztaszabolcs	5
+30	Székesfehérvár	Összes	Balatonfüred - Tapolca	5
+30	Székesfehérvár	Összes	Sárbogárd	7
+30	Székesfehérvár	Összes	Veszprém	5
+30	Székesfehérvár	Összes	Komárom	5
+30	Székesfehérvár	Összes	Budapest	8
+30	Siófok	Tab	Székesfehérvár	5
+30	Siófok	Tab	Fonyód	5
+30	Fonyód	Kaposvár	Siófok	5
+30	Fonyód	Kaposvár	Balatonszentgyörgy	5
+30	Balatonszentgyörgy	Összes	Keszthely	5
+30	Balatonszentgyörgy	Keszthely	Összes	5
+30	Nagykanizsa	Összes	Gyékényes	5
+30	Nagykanizsa	Összes	Budapest	5
+40a	Pusztaszabolcs	Sárbogárd	Dunaújváros	5
+40a	Pusztaszabolcs	Dunaújváros	Sárbogárd	5
+40a	Pusztaszabolcs	Összes	Székesfehérvár	5
+40	Sárbogárd	Összes	Budapest	5
+40	Sárbogárd	Összes	Pécs	5
+40	Dombóvár	Összes	Budapest	0
+40	Dombóvár	Összes	Pécs	10
+40	Sásd	Összes	Összes	5
+40	Szentlőrinc	Összes	Sellye	5
+40	Szentlőrinc	Sellye	Összes	5
+40	Szentlőrinc	Dombóvár	Barcs	10
+40	Szentlőrinc	Összes	Dombóvár	3
+40	Szentlőrinc	Összes	Villány	5

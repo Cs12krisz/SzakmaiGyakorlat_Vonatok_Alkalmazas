@@ -13,10 +13,10 @@
         </Grid.ColumnDefinitions>
         <StackPanel>
             <Label Content="Vonalszám:"></Label>
-            <ComboBox />
+            <ComboBox x:Name="cbxVonalSzam" SelectionChanged="cbxVonalSzam_SelectionChanged" />
             <Button Content="Mentés"/>
         </StackPanel>
-        <TextBlock Grid.Column="1" Text="Kérem válasszon vonalszámot!"></TextBlock>
+        <TextBlock x:Name="txblAdatok" Grid.Column="1" Text="Kérem válasszon vonalszámot!"></TextBlock>
 
     </Grid>
 </Window>
