@@ -1,0 +1,303 @@
+[
+  {
+    "vonal": "1",
+    "allomas": "Tatabánya",
+    "erkezoirany": "Budapest, Komárom",
+    "induloirany": "Oroszlány",
+    "keses": 5
+  },
+  {
+    "vonal": "1",
+    "allomas": "Tatabánya",
+    "erkezoirany": "Oroszlány",
+    "induloirany": "Budapest, Komárom",
+    "keses": 5
+  },
+  {
+    "vonal": "1",
+    "allomas": "Almásfüzítő",
+    "erkezoirany": "Esztergom",
+    "induloirany": "Tatabánya, Győr",
+    "keses": 5
+  },
+  {
+    "vonal": "1",
+    "allomas": "Almásfüzítő",
+    "erkezoirany": "Esztergom",
+    "induloirany": "Összes",
+    "keses": 5
+  },
+  {
+    "vonal": "1",
+    "allomas": "Almásfüzítő",
+    "erkezoirany": "Székesfehérvár - Kisbér",
+    "induloirany": "Budapest",
+    "keses": 5
+  },
+  {
+    "vonal": "1",
+    "allomas": "Almásfüzítő",
+    "erkezoirany": "Székesfehérvár - Kisbér",
+    "induloirany": "Győr",
+    "keses": 5
+  },
+  {
+    "vonal": "1",
+    "allomas": "Győr",
+    "erkezoirany": "Összes",
+    "induloirany": "Budapest",
+    "keses": 5
+  },
+  {
+    "vonal": "1",
+    "allomas": "Győr",
+    "erkezoirany": "Összes",
+    "induloirany": "Hegyeshalom",
+    "keses": 5
+  },
+  {
+    "vonal": "1",
+    "allomas": "Győr",
+    "erkezoirany": "Budapest",
+    "induloirany": "Celldömölk",
+    "keses": 5
+  },
+  {
+    "vonal": "2",
+    "allomas": "Esztergom-Kertváros",
+    "erkezoirany": "Almásfüzitő",
+    "induloirany": "Budapest-Nyugati pu.",
+    "keses": 5
+  },
+  {
+    "vonal": "25",
+    "allomas": "Ukk",
+    "erkezoirany": "Tapolca",
+    "induloirany": "Budapest",
+    "keses": 5
+  },
+  {
+    "vonal": "25",
+    "allomas": "Zalaszentiván",
+    "erkezoirany": "Nagykanizsa, Szombathely",
+    "induloirany": "Zalaegerszeg",
+    "keses": 5
+  },
+  {
+    "vonal": "25",
+    "allomas": "Zalaszentiván",
+    "erkezoirany": "Nagykanizsa, Szombathely",
+    "induloirany": "Budapest",
+    "keses": 5
+  },
+  {
+    "vonal": "30a",
+    "allomas": "Tárnok",
+    "erkezoirany": "Budapest",
+    "induloirany": "Székesfehérvár",
+    "keses": 2
+  },
+  {
+    "vonal": "30a",
+    "allomas": "Martonvásár",
+    "erkezoirany": "Székesfehérvár",
+    "induloirany": "Budapest",
+    "keses": 2
+  },
+  {
+    "vonal": "30",
+    "allomas": "Székesfehérvár",
+    "erkezoirany": "Összes",
+    "induloirany": "Siófok - Nagykanizsa",
+    "keses": 2
+  },
+  {
+    "vonal": "30",
+    "allomas": "Székesfehérvár",
+    "erkezoirany": "Összes",
+    "induloirany": "Pusztaszabolcs",
+    "keses": 5
+  },
+  {
+    "vonal": "30",
+    "allomas": "Székesfehérvár",
+    "erkezoirany": "Összes",
+    "induloirany": "Balatonfüred - Tapolca",
+    "keses": 5
+  },
+  {
+    "vonal": "30",
+    "allomas": "Székesfehérvár",
+    "erkezoirany": "Összes",
+    "induloirany": "Sárbogárd",
+    "keses": 7
+  },
+  {
+    "vonal": "30",
+    "allomas": "Székesfehérvár",
+    "erkezoirany": "Összes",
+    "induloirany": "Veszprém",
+    "keses": 5
+  },
+  {
+    "vonal": "30",
+    "allomas": "Székesfehérvár",
+    "erkezoirany": "Összes",
+    "induloirany": "Komárom",
+    "keses": 5
+  },
+  {
+    "vonal": "30",
+    "allomas": "Székesfehérvár",
+    "erkezoirany": "Összes",
+    "induloirany": "Budapest",
+    "keses": 8
+  },
+  {
+    "vonal": "30",
+    "allomas": "Siófok",
+    "erkezoirany": "Tab",
+    "induloirany": "Székesfehérvár",
+    "keses": 5
+  },
+  {
+    "vonal": "30",
+    "allomas": "Siófok",
+    "erkezoirany": "Tab",
+    "induloirany": "Fonyód",
+    "keses": 5
+  },
+  {
+    "vonal": "30",
+    "allomas": "Fonyód",
+    "erkezoirany": "Kaposvár",
+    "induloirany": "Siófok",
+    "keses": 5
+  },
+  {
+    "vonal": "30",
+    "allomas": "Fonyód",
+    "erkezoirany": "Kaposvár",
+    "induloirany": "Balatonszentgyörgy",
+    "keses": 5
+  },
+  {
+    "vonal": "30",
+    "allomas": "Balatonszentgyörgy",
+    "erkezoirany": "Összes",
+    "induloirany": "Keszthely",
+    "keses": 5
+  },
+  {
+    "vonal": "30",
+    "allomas": "Balatonszentgyörgy",
+    "erkezoirany": "Keszthely",
+    "induloirany": "Összes",
+    "keses": 5
+  },
+  {
+    "vonal": "30",
+    "allomas": "Nagykanizsa",
+    "erkezoirany": "Összes",
+    "induloirany": "Gyékényes",
+    "keses": 5
+  },
+  {
+    "vonal": "30",
+    "allomas": "Nagykanizsa",
+    "erkezoirany": "Összes",
+    "induloirany": "Budapest",
+    "keses": 5
+  },
+  {
+    "vonal": "40a",
+    "allomas": "Pusztaszabolcs",
+    "erkezoirany": "Sárbogárd",
+    "induloirany": "Dunaújváros",
+    "keses": 5
+  },
+  {
+    "vonal": "40a",
+    "allomas": "Pusztaszabolcs",
+    "erkezoirany": "Dunaújváros",
+    "induloirany": "Sárbogárd",
+    "keses": 5
+  },
+  {
+    "vonal": "40a",
+    "allomas": "Pusztaszabolcs",
+    "erkezoirany": "Összes",
+    "induloirany": "Székesfehérvár",
+    "keses": 5
+  },
+  {
+    "vonal": "40",
+    "allomas": "Sárbogárd",
+    "erkezoirany": "Összes",
+    "induloirany": "Budapest",
+    "keses": 5
+  },
+  {
+    "vonal": "40",
+    "allomas": "Sárbogárd",
+    "erkezoirany": "Összes",
+    "induloirany": "Pécs",
+    "keses": 5
+  },
+  {
+    "vonal": "40",
+    "allomas": "Dombóvár",
+    "erkezoirany": "Összes",
+    "induloirany": "Budapest",
+    "keses": 0
+  },
+  {
+    "vonal": "40",
+    "allomas": "Dombóvár",
+    "erkezoirany": "Összes",
+    "induloirany": "Pécs",
+    "keses": 10
+  },
+  {
+    "vonal": "40",
+    "allomas": "Sásd",
+    "erkezoirany": "Összes",
+    "induloirany": "Összes",
+    "keses": 5
+  },
+  {
+    "vonal": "40",
+    "allomas": "Szentlőrinc",
+    "erkezoirany": "Összes",
+    "induloirany": "Sellye",
+    "keses": 5
+  },
+  {
+    "vonal": "40",
+    "allomas": "Szentlőrinc",
+    "erkezoirany": "Sellye",
+    "induloirany": "Összes",
+    "keses": 5
+  },
+  {
+    "vonal": "40",
+    "allomas": "Szentlőrinc",
+    "erkezoirany": "Dombóvár",
+    "induloirany": "Barcs",
+    "keses": 10
+  },
+  {
+    "vonal": "40",
+    "allomas": "Szentlőrinc",
+    "erkezoirany": "Összes",
+    "induloirany": "Dombóvár",
+    "keses": 3
+  },
+  {
+    "vonal": "40",
+    "allomas": "Szentlőrinc",
+    "erkezoirany": "Összes",
+    "induloirany": "Villány",
+    "keses": 5
+  }
+]

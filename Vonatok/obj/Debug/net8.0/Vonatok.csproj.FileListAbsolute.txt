@@ -1,0 +1,17 @@
+C:\Users\CsKrisz\source\repos\Vonatok\Vonatok\bin\Debug\net8.0\Vonatok.exe
+C:\Users\CsKrisz\source\repos\Vonatok\Vonatok\bin\Debug\net8.0\varakozas.txt
+C:\Users\CsKrisz\source\repos\Vonatok\Vonatok\bin\Debug\net8.0\Vonatok.deps.json
+C:\Users\CsKrisz\source\repos\Vonatok\Vonatok\bin\Debug\net8.0\Vonatok.runtimeconfig.json
+C:\Users\CsKrisz\source\repos\Vonatok\Vonatok\bin\Debug\net8.0\Vonatok.dll
+C:\Users\CsKrisz\source\repos\Vonatok\Vonatok\bin\Debug\net8.0\Vonatok.pdb
+C:\Users\CsKrisz\source\repos\Vonatok\Vonatok\obj\Debug\net8.0\Vonatok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CsKrisz\source\repos\Vonatok\Vonatok\obj\Debug\net8.0\Vonatok.AssemblyInfoInputs.cache
+C:\Users\CsKrisz\source\repos\Vonatok\Vonatok\obj\Debug\net8.0\Vonatok.AssemblyInfo.cs
+C:\Users\CsKrisz\source\repos\Vonatok\Vonatok\obj\Debug\net8.0\Vonatok.csproj.CoreCompileInputs.cache
+C:\Users\CsKrisz\source\repos\Vonatok\Vonatok\obj\Debug\net8.0\Vonatok.sourcelink.json
+C:\Users\CsKrisz\source\repos\Vonatok\Vonatok\obj\Debug\net8.0\Vonatok.dll
+C:\Users\CsKrisz\source\repos\Vonatok\Vonatok\obj\Debug\net8.0\refint\Vonatok.dll
+C:\Users\CsKrisz\source\repos\Vonatok\Vonatok\obj\Debug\net8.0\Vonatok.pdb
+C:\Users\CsKrisz\source\repos\Vonatok\Vonatok\obj\Debug\net8.0\Vonatok.genruntimeconfig.cache
+C:\Users\CsKrisz\source\repos\Vonatok\Vonatok\obj\Debug\net8.0\ref\Vonatok.dll
+C:\Users\CsKrisz\source\repos\Vonatok\Vonatok\bin\Debug\net8.0\varakozas.json
